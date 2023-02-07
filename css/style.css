@@ -1,0 +1,436 @@
+div>div {
+    margin: 600px;
+}
+
+.item1 {
+    width: 1000px;
+    height: 200px;
+    background: rgb(70, 22, 5);
+}
+
+.item2 {
+    width: 400px;
+    height: 200px;
+    background: rgb(70, 22, 5);
+    position: absolute;
+    top: -117px;
+    left: 860px;
+    rotate: 130deg;
+
+}
+
+.item3 {
+    width: 50px;
+    height: 600px;
+    background: rgb(70, 22, 5);
+    position: absolute;
+    top: -500px;
+    left: 500px;
+}
+
+.item4 {
+    width: 200px;
+    height: 200px;
+    background: white;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: absolute;
+    top: 820px;
+    left: 150px;
+    z-index: 20;
+}
+
+.item5 {
+    width: 400px;
+    height: 400px;
+    background: black;
+    border-radius: 0% 100% 100% 0% / 52% 100% 0% 48%;
+    -webkit-border-radius: 0% 100% 100% 0% / 52% 100% 0% 48%;
+    -moz-border-radius: 0% 100% 100% 0% / 52% 100% 0% 48%;
+    -ms-border-radius: 0% 100% 100% 0% / 52% 100% 0% 48%;
+    -o-border-radius: 0% 100% 100% 0% / 52% 100% 0% 48%;
+    position: absolute;
+    top: 700px;
+    left: 1557px;
+    rotate: -30deg;
+}
+
+.item6 {
+    width: 400px;
+    height: 400px;
+    background: black;
+    border-radius: 0% 100% 100% 0% / 52% 100% 0% 48%;
+    -webkit-border-radius: 0% 100% 100% 0% / 52% 100% 0% 48%;
+    -moz-border-radius: 0% 100% 100% 0% / 52% 100% 0% 48%;
+    -ms-border-radius: 0% 100% 100% 0% / 52% 100% 0% 48%;
+    -o-border-radius: 0% 100% 100% 0% / 52% 100% 0% 48%;
+    position: absolute;
+    top: 1103px;
+    left: 808px;
+    rotate: -120deg;
+}
+
+.item7 {
+    width: 450px;
+    height: 450px;
+    border: 400px solid;
+    border-radius: 50%;
+    border-top-color: transparent;
+    border-bottom-color: black;
+    border-left-color: transparent;
+    border-right-color: black;
+    position: absolute;
+    rotate: 15deg;
+    top: 635px;
+    left: 850px;
+}
+
+.item8 {
+    width: 300px;
+    border-right: 20px solid transparent;
+    border-bottom: 20px solid gold;
+    border-top: 20px solid blue;
+    position: absolute;
+    top: -500px;
+    left: 550px;
+}
+
+.item9 {
+    width: 2500px;
+    height: 400px;
+    background: black;
+    border-radius: 30%;
+    -webkit-border-radius: 30%;
+    -moz-border-radius: 30%;
+    -ms-border-radius: 30%;
+    -o-border-radius: 30%;
+    position: absolute;
+    rotate: 60deg;
+    top: 2500px;
+    left: 1000px;
+}
+
+.item10 {
+    width: 200px;
+    height: 200px;
+    background: white;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: absolute;
+    top: 3520px;
+    left: 2680px;
+    z-index: 20;
+}
+
+.item11 {
+    width: 0;
+    border-left: 200px solid transparent;
+    border-right: 200px solid transparent;
+    border-bottom: 200px solid rgb(70, 22, 5);
+    rotate: -90deg;
+    position: absolute;
+    top: -100px;
+    left: -290px;
+}
+
+.item12 {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    border-left: 10px solid gainsboro;
+    border-right: 10px solid gainsboro;
+    border-top: 10px solid gainsboro;
+    border-bottom: 10px solid gainsboro;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: absolute;
+    top: 40px;
+}
+
+.item13 {
+    width: 0;
+    height: 0;
+    background: transparent;
+    border-left: 100px solid yellowgreen;
+    border-right: 100px solid brown;
+    border-top: 100px solid green;
+    border-bottom: 100px solid hotpink;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.item14 {
+    width: 500px;
+    height: 200px;
+    background: transparent;
+    border-top: 100px solid wheat;
+    border-bottom: 100px solid transparent;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: absolute;
+    top: -450px;
+    left: 265px;
+    rotate: -90deg;
+}
+
+.item15 {
+    width: 400px;
+    height: 200px;
+    background: purple;
+    border-top: 20px solid green;
+    border-bottom: 20px solid hotpink;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.item16 {
+    width: 400px;
+    height: 200px;
+
+    border-top: 20px solid green;
+    border-bottom: 20px solid hotpink;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.item17 {
+    width: 400px;
+    height: 200px;
+
+    border-top: 20px solid green;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+
+
+.item18 {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    border-left: 10px solid gainsboro;
+    border-right: 10px solid gainsboro;
+    border-top: 10px solid gainsboro;
+    border-bottom: 10px solid gainsboro;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: absolute;
+    top: 40px;
+    left: 600px;
+}
+
+.item19 {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    border-left: 10px solid gainsboro;
+    border-right: 10px solid gainsboro;
+    border-top: 10px solid gainsboro;
+    border-bottom: 10px solid gainsboro;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: absolute;
+    top: 40px;
+    left: 450px;
+}
+
+.item20 {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    border-left: 10px solid gainsboro;
+    border-right: 10px solid gainsboro;
+    border-top: 10px solid gainsboro;
+    border-bottom: 10px solid gainsboro;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: absolute;
+    top: 40px;
+    left: 300px;
+}
+
+.item21 {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    border-left: 10px solid gainsboro;
+    border-right: 10px solid gainsboro;
+    border-top: 10px solid gainsboro;
+    border-bottom: 10px solid gainsboro;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: absolute;
+    top: 40px;
+    left: 150px;
+}
+
+.item22 {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    border-left: 10px solid gainsboro;
+    border-right: 10px solid gainsboro;
+    border-top: 10px solid gainsboro;
+    border-bottom: 10px solid gainsboro;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: absolute;
+    top: 40px;
+    left: 750px;
+}
+
+
+
+.item23 {
+    width: 400px;
+    height: 300px;
+    top: -400px;
+    overflow: hidden;
+    position: absolute;
+    rotate: 50deg;
+    left: 350px;
+}
+
+.item23:before {
+    top: 0;
+    right: 0;
+    box-shadow: 200px -50px 0 0 wheat;
+    content: "";
+    display: block;
+    width: 200%;
+    height: 200%;
+    position: absolute;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.item24 {
+    width: 500px;
+    height: 250px;
+    background: gray;
+    position: relative;
+}
+
+.item24::before {
+    content: "";
+    position: absolute;
+    top: -124px;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-bottom: 125px solid gray;
+}
+
+.item24::after {
+    content: "";
+    position: absolute;
+    bottom: -124px;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-top: 125px solid gray;
+}
+
+.item25 {
+    height: 100px;
+    width: 500px;
+    background: repeating-linear-gradient(120deg, grey 0, grey 10px, black 10px, black 15px);
+    border-radius: 0 25px 25px 0;
+    -webkit-border-radius: 0 25px 25px 0;
+    -moz-border-radius: 0 25px 25px 0;
+    -ms-border-radius: 0 25px 25px 0;
+    -o-border-radius: 0 25px 25px 0;
+    position: absolute;
+    left: 2300px;
+    top: 800px;
+    margin: 0 0 150px;
+}
+
+
+
+.child1 {
+    width: 0;
+    height: 0;
+    background: transparent;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: absolute;
+    top: -650px;
+    left: -700px;
+    z-index: 20;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-top: 100px solid transparent;
+    border-bottom: 100px solid gray;
+    rotate: 45deg;
+}
+
+.child2 {
+    width: 0;
+    height: 0;
+    background: transparent;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: absolute;
+    top: -660px;
+    left: -700px;
+    z-index: 20;
+    border-left: 100px solid gray;
+    border-right: 100px solid transparent;
+    border-top: 100px solid transparent;
+    border-bottom: 100px solid transparent;
+    rotate: 45deg;
+}
+
